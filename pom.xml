@@ -13,8 +13,8 @@
         <project.identifier>custom-window</project.identifier>
         <project.github.repository>mimoguz/custom_window</project.github.repository>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <java.version>17</java.version>
-        <javafx.version>19</javafx.version>
+        <java.version>11</java.version>
+        <javafx.version>17.0.2</javafx.version>
         <jna.version>5.12.1</jna.version>
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <maven.compiler.target>${java.version}</maven.compiler.target>

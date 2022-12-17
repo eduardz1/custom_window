@@ -10,7 +10,6 @@ import javafx.stage.Stage;
  * A small collection of utility methods to customize a window.
  * Targets Windows 11+, won't show any effect on unsupported OSes.
  */
-@SuppressWarnings("UnusedReturnValue")
 public class StageOps {
     /**
      * A wrapper for HWND type.

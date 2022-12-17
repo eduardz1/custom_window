@@ -1,5 +1,11 @@
 # Customize JavaFX stages on Windows 11
 
+## Info
+
+Fork made to fix issue in compiling it with jitpack.io
+
+## Orginal README
+
 A small collection of utility methods to customize a JavaFX stage. Targets Windows 11+, won't show any effect on unsupported OSes.
 
 ```java
